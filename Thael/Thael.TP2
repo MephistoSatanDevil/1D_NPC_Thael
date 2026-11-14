@@ -2,7 +2,7 @@
 BACKUP ~Thael\backup~
 AUTHOR ~sergiond77@hotmail.com~
 
-VERSION ~v2.35~
+VERSION ~v2.40~
 ALWAYS
 ACTION_IF GAME_IS ~BG2EE EET~ THEN BEGIN
 		ACTION_DEFINE_ARRAY ch_reload BEGIN
